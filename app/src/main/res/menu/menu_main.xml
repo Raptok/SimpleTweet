@@ -5,6 +5,7 @@
     <item
         android:id="@+id/compose"
         android:icon="@android:drawable/ic_menu_edit"
+        android:onClick="onComposeAction"
         android:title="Compose"
         app:showAsAction="always" />
 </menu>
